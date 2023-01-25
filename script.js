@@ -35,4 +35,6 @@ const quizData = [
         d: 'None of the above',
         correct: 'd'
     }
-]
+];
+
+const questionEl = document.getElementById ('question');
